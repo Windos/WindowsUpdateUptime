@@ -1,5 +1,4 @@
-﻿Start-Transcript -Path c:\_git\trans.log -Append
-Import-Module posh-git
+﻿Import-Module posh-git
 cd C:\_git\WindowsUpdateUptime
 
 $Content = Get-Content -Path 'C:\_git\WindowsUpdateUptime\README.md'
