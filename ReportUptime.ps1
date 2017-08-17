@@ -1,4 +1,6 @@
-﻿$Content = Get-Content -Path 'C:\_git\WindowsUpdateUptime\README.md'
+﻿cd C:\_git\WindowsUpdateUptime
+
+$Content = Get-Content -Path 'C:\_git\WindowsUpdateUptime\README.md'
 
 foreach ($Line in $Content) {
     if ($Line -like '*Win10-Pro-LoggedIn*') {
