@@ -1,4 +1,5 @@
-﻿cd C:\_git\WindowsUpdateUptime
+﻿Import-Module posh-git
+cd C:\_git\WindowsUpdateUptime
 
 $Content = Get-Content -Path 'C:\_git\WindowsUpdateUptime\README.md'
 
