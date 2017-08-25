@@ -5,11 +5,11 @@ to test methods for preventing Windows Update from forcing unwanted reboots.
 
 ### Windows 10 Professional - 1703 (Logged In)
 
-<p id="Win10-Pro-LoggedIn">8 days, 12 hours, 6 minutes</p>
+<p id="Win10-Pro-LoggedIn">8 days, 13 hours, 6 minutes</p>
 
 ### Windows 10 Enterprise - 1703 (Logged Out)
 
-<p id="Win10-Ent-LoggedOut">8 days, 12 hours, 6 minutes</p>
+<p id="Win10-Ent-LoggedOut">8 days, 13 hours, 6 minutes</p>
 
 ### Links
 
