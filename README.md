@@ -3,13 +3,13 @@
 This page contains automatically updated stats for a number of Windows VMs running in a lab specifically 
 to test methods for preventing Windows Update from forcing unwanted reboots.
 
-### Windows 10 Professional - 1703 (Logged In)
+### Windows 10 Professional - 1703 (Logged In, GPO Fix)
 
-<p id="Win10-Pro-LoggedIn">2 days, 20 hours, 13 minutes</p>
+<p id="Win10-Pro-LoggedIn-GPO">2 days, 20 hours, 13 minutes</p>
 
-### Windows 10 Enterprise - 1703 (Logged Out)
+### Windows 10 Enterprise - 1703 (Logged In, GPO Fix)
 
-<p id="Win10-Ent-LoggedOut">2 days, 20 hours, 13 minutes</p>
+<p id="Win10-Ent-LoggedIn-GPO">2 days, 20 hours, 13 minutes</p>
 
 ### Links
 
