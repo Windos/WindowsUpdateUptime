@@ -5,19 +5,19 @@ to test methods for preventing Windows Update from forcing unwanted reboots.
 
 ### Windows 10 Professional - 1703 (Logged In, GPO Fix)
 
-<p id="Win10-Pro-LoggedIn-GPO">104 days, 13 hours, 15 minutes</p>
+<p id="Win10-Pro-LoggedIn-GPO">104 days, 14 hours, 15 minutes</p>
 
 ### Windows 10 Professional - 1703 (Logged Out, REG Fix)
 
-<p id="Win10-Pro-LoggedOut-REG">104 days, 0 hours, 53 minutes</p>
+<p id="Win10-Pro-LoggedOut-REG">104 days, 1 hours, 53 minutes</p>
 
 ### Windows 10 Enterprise - 1703 (Logged In, GPO Fix)
 
-<p id="Win10-Ent-LoggedIn-GPO">104 days, 13 hours, 15 minutes</p>
+<p id="Win10-Ent-LoggedIn-GPO">104 days, 14 hours, 15 minutes</p>
 
 ### Windows 10 Enterprise - 1703 (Logged Out, REG Fix)
 
-<p id="Win10-Ent-LoggedOut-REG">104 days, 0 hours, 53 minutes</p>
+<p id="Win10-Ent-LoggedOut-REG">104 days, 1 hours, 53 minutes</p>
 
 ### Links
 
